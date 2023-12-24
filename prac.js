@@ -1,6 +1,6 @@
-const num1 = parseFloat(prompt("Enter first number: "));
-const num2 = parseFloat(prompt("Enter second number: "));
-const num3 = parseFloat(prompt("Enter third number: "));
+const num1 = 33
+const num2 = 55
+const num3 = 22
 let largest;
 
 
