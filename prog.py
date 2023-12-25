@@ -1,6 +1,6 @@
 
-num1=100
-num2=200
+num1=10000
+num2=20000
 sum=num1+num2
 
 print(num1 + num2)
